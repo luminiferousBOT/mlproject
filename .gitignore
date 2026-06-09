@@ -20,5 +20,9 @@ dist/
 # VS Code
 .vscode/
 
+# Logs
+logs/
+src/logs/
+
 # macOS
 .DS_Store
