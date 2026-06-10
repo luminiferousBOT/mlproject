@@ -24,5 +24,8 @@ dist/
 logs/
 src/logs/
 
+# Artifacts
+artifacts/
+
 # macOS
 .DS_Store

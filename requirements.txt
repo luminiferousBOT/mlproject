@@ -2,3 +2,8 @@
 pandas
 numpy
 seaborn
+scikit-learn
+scikit-learn
+matplotlib
+xgboost
+
